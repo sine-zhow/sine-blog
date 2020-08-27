@@ -3,7 +3,7 @@ module.exports = {
     title: `sine blog`,
     author: {
       name: `sine zhow`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `who is a student`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
